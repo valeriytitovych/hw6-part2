@@ -1,0 +1,133 @@
+body {  
+    background-color: #227cad;
+    color: #ffffff;      
+}
+
+div {
+    background-color: #2793bc;
+}
+
+.ba-cities {
+    list-style: none;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    text-align: center;
+    background-color: #2793bc;
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    font-size: 0%;
+    width: 1000px;
+    height: 500x;    
+}
+
+.ba-cities li {
+    display: inline-block;        
+    margin: 0;    
+    font-size: 20px;  
+    padding: 0 20px;               
+}
+
+
+#lisbon {     
+    width: 456px;
+    height: 121px;    
+    border: #ffffff solid 2px;
+    background-color: #2793cb;
+}
+
+#sanfrancisco {
+    width: 456px;
+    height: 121px;
+    border: #ffffff solid 2px;
+    background-color: #cd7392;
+}
+
+#paris {
+  width: 206px;
+  height: 121px;
+  border: #ffffff solid 2px;
+  background-color: #24bdc8;
+}
+
+#belgrade {
+  width: 206px;
+  height: 121px;
+  border: #ffffff solid 2px;
+  background-color: #986f95;
+}
+
+#moscow {
+  width: 206px;
+  height: 121px;
+  border: #ffffff solid 2px;
+  background-color: #c65444;
+}
+
+#telaviv {
+  width: 206px;
+  height: 121px;
+  border: #ffffff solid 2px;
+  background-color: #e77144;
+}
+
+#cair {
+  width: 206px;
+  height: 121px;
+  border: #ffffff solid 2px;
+  background-color: #ffcb5f;
+}
+
+#newyork {
+  width: 206px;
+  height: 121px;
+  border: #ffffff solid 2px;
+  background-color: #94c297;
+}
+
+#newdehli {
+  width: 206px;
+  height: 121px;
+  border: #ffffff solid 2px;
+  background-color: #609394;
+}
+
+#tokyo {
+  width: 206px;
+  height: 121px;
+  border: #ffffff solid 2px;
+  background-color: #2b8d64;
+}
+
+#sydney {
+   width: 956px;
+   height: 121px;   
+   border: #ffffff solid 2px;
+   background-color: #5c618e;
+}
+
+i {
+  font-size: 20px;
+}
+
+.header {
+  font-size: 32px;
+  margin-left: 164px;
+  padding-top: 15px;
+}
+
+.footer {
+  font-size: 18px;
+  margin-left: 164px;
+  padding: 15px 0 100px 0;  
+}
+
+span {
+  opacity: 0.6;
+}
+
+.ba-cities:hover .city {
+  opacity: 0.6;
+}
+
+.ba-cities:hover .city:hover {
+  opacity: 1;
+}
